@@ -5,7 +5,6 @@
 **AI Developer · Python · C++**
 
 [![GitHub followers](https://img.shields.io/github/followers/Javicilie0?label=Followers&style=flat-square&color=0e75b6)](https://github.com/Javicilie0)
-[![Profile Views](https://komarev.com/ghpvc/?username=Javicilie0&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/Javicilie0)
 
 </div>
 
