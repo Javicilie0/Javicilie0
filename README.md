@@ -38,9 +38,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javicilie0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Javicilie0&theme=tokyonight&hide_border=true" />
-</div>
+## Currently Learning
+
+- LangGraph — building stateful multi-agent workflows
+- RAG pipelines and vector search
+- LLM orchestration with LangChain
 
 ---
 
