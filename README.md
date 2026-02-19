@@ -31,14 +31,6 @@
 
 ---
 
-## Currently Learning
-
-- LangGraph — building stateful multi-agent workflows
-- RAG pipelines and vector search
-- LLM orchestration with LangChain
-
----
-
 ## Projects
 
 | Project | Description | Stack |
